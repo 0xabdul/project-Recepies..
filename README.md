@@ -20,7 +20,7 @@
 
 ## What I learned &#128373;
 <ul>
-  <li>This my first project</li>
+  <li>praticed more about responsive</li>
   <li>more about page transistion</li>
   <li>paraticed links</li>
   </ul>.
