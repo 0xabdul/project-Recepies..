@@ -23,4 +23,18 @@
   <li>praticed more about responsive</li>
   <li>more about page transistion</li>
   <li>paraticed links</li>
-  </ul>.
+  </ul><br>
+  
+  
+  
+  ## Author<br>
+- Frontend Mentor - [@oxabdul](https://www.frontendmentor.io/profile/0xAbdul)<br>
+
+
+
+
+
+## Acknowledgments<br>
+<ul>
+  <li>Inspiration by <a href="https://www.theodinproject.com/dashboard">ODIN PROJECT</a></li>
+</ul>
