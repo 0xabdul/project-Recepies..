@@ -37,4 +37,4 @@
 ## Acknowledgments<br>
 <ul>
   <li>Inspiration by <a href="https://www.theodinproject.com/dashboard">ODIN PROJECT</a></li>
-</ul>
+</ul>.
